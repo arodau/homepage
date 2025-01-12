@@ -1,108 +1,63 @@
-name: John Doe
+name: Adrien Rodau
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: adrien.rodau@univ-lille.fr
+  github: arodau
 
 languages:
+  - idiom: Français
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Español
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: PhD in Mathematics
+    time: 2019-2023
+    university: Université de Pau & Universidad de Zaragoza
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Master's thesis in Mathematics
+    time: 2019
+    university: Aix-Marseille Université
+
+  - degree: Magistère in Mathematics
+    time: 2015-2019
+    university: Université de Strasbourg
 
 skills:
-  - category: Backend
+  - category: Research
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Low-dimensional topology
+      - Knot theory
+      - Algebraic curves
+  - category: Coding
     skill:
-      - React
-      - Typescript
-  - category: DevOps
-    skill:
-      - Docker
-      - Kubernetes 
-
+      - Sage
+      - GAP
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  I am a post-doc researcher in pure mathematics at Université de Lille. 
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+  - role: Post-doc
+    time: 02/2024-09/2025
+    company: Université de Lille
+    supervisor: Paolo Aceto
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+  - role: ATER (Research and teaching temporary position)
+    time: 09/2022-01/2024
+    company: IMT, Université Toulouse III
 
+  - role: PhD student
+    time: 02/2024-09/2025
+    company: Université de Pau & Universidad de Zaragoza
+    supervisors: Vincent Florens & Enrique Artal
+    subject: Peripheral structures and topological invariants of knotted submanifolds
+      
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: A Slope Invariant and the A-polynomial of knots.
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    authors: Léo Bénard, Vincent Florens, Adrien Rodau
+    conference: New York J. Math. 30, April 2024
